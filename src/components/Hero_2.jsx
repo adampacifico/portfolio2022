@@ -20,7 +20,6 @@ const Hero_2 = () => {
           delay: 0.5,
         }}
         className="text-[5rem] xsm:text-[6.5rem] lg:text-[8rem] sm:-rotate-[8deg] rotate-0"
-        // data-aos="zoom-out"
         style={{ fontFamily: "'Kaushan Script', cursive" }}
       >
         Adam Pacifico
